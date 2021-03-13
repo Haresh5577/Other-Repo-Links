@@ -20,6 +20,7 @@ https://github.com/appsecco
 https://github.com/solvimm/aws-solutions-architect-associate-labs
 https://github.com/solvimm/aws-solutions-architect-professional-labs
 https://github.com/jclouds
+https://github.com/PradyumnaKrishna/Qwiklabs
 
 AWS Automation Scripts
 ----------------------
